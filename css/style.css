@@ -18,6 +18,7 @@
     font-weight: 400;
 }
 
+
 .caption {
     margin-bottom: ;
 }
@@ -48,4 +49,79 @@
     height: 40px !important;
 }
 
+.main-section {
+    margin-top: 130px !important;
+}
+
+.main-title-div {
+    margin-bottom: 50px !important;
+}
+
 /* card-section */
+.card-price {
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    color: #289BDE;
+}
+
+.course-heading {
+    font-size: 45px;
+    font-weight: 600;
+    color: #1D1D1D;
+}
+
+.course-paragraph {
+    color: #777777;
+}
+
+
+
+
+
+/* media query start  */
+/* small device start  */
+
+@media only screen and (max-width:575px) {
+    .height {
+        height: 360px;
+    }
+
+    .main-section {
+        margin-top: 32px !important;
+    }
+
+    .main-title-div {
+        margin-bottom: 16px !important;
+    }
+
+    .course-heading {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .course-image {
+        width: 100%;
+        height: 100%;
+        margin: auto;
+    }
+
+
+}
+
+/* small device end  */
+
+/* medium device responsive */
+@media only screen and (min-width:576px) and (max-width:992px) {
+    .main-section {
+        margin-top: 60px !important;
+    }
+
+    .main-title-div {
+        margin-bottom: 30px !important;
+    }
+
+    .course-heading {
+        font-size: 30px;
+        font-weight: 600;
+    }
+}
