@@ -22,9 +22,6 @@
     margin-top: 90px;
 }
 
-.caption {
-    margin-bottom: ;
-}
 
 .cover-title {
     font-size: 65px;
@@ -78,6 +75,26 @@
 }
 
 
+.course-button {
+    position: relative;
+    background-color: #289BDE !important;
+    width: 248px !important;
+    height: 56px !important;
+    font-size: 20px !important;
+    font-weight: 600;
+    display: inline !important;
+}
+
+.course-button2 {
+    position: relative;
+    background-color: #289BDE !important;
+    width: 108px !important;
+    height: 49px !important;
+    font-size: 20px !important;
+    font-weight: 600;
+    display: none !important;
+}
+
 
 
 
@@ -106,6 +123,27 @@
         width: 100%;
         height: 100%;
         margin: auto;
+
+    }
+
+    .course-button {
+        position: relative;
+        background-color: #289BDE !important;
+        width: 248px !important;
+        height: 56px !important;
+        font-size: 20px !important;
+        font-weight: 600;
+        display: none !important;
+    }
+
+    .course-button2 {
+        position: relative;
+        background-color: #289BDE !important;
+        width: 108px !important;
+        height: 49px !important;
+        font-size: 20px !important;
+        font-weight: 600;
+        display: inline !important;
     }
 
 
@@ -126,5 +164,20 @@
     .course-heading {
         font-size: 30px;
         font-weight: 600;
+    }
+
+    .course-button {
+        position: relative;
+        display: none !important;
+    }
+
+    .course-button2 {
+        position: relative;
+        background-color: #289BDE !important;
+        width: 108px !important;
+        height: 49px !important;
+        font-size: 20px !important;
+        font-weight: 600;
+        display: inline !important;
     }
 }
