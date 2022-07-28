@@ -1,3 +1,8 @@
+/* margin for all sections */
+.body-section {
+    margin-top: 130px !important;
+}
+
 .brand-title {
     font-size: 40px !important;
     font-weight: 600 !important;
@@ -158,6 +163,11 @@
 /* frequently part  */
 .frequently-part {
     margin-top: 100px !important;
+}
+
+/* brand part  */
+.brand-section {
+    margin-top: 130px !important;
 }
 
 
