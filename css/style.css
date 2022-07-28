@@ -130,6 +130,30 @@
     background-color: #289BDE !important;
 }
 
+/* ready go join part  */
+.ready-to-div {
+    background-color: #289BDE !important;
+    height: 300px !important;
+
+}
+
+.ready-to-title-div {
+    height: 140px;
+    width: 528px;
+}
+
+.ready-to-title {}
+
+.ready-to-para {}
+
+.ready-to-button {
+    background-color: white !important;
+    height: 56px !important;
+    width: 199px !important;
+    color: #289BDE !important;
+    font-size: 24px !important;
+}
+
 
 
 
@@ -213,6 +237,15 @@
         margin-top: 0px !important;
     }
 
+    .ready-to-div {
+        background-color: #289BDE !important;
+
+    }
+
+
+
+
+
 
 }
 
@@ -282,6 +315,11 @@
 
     .explore-image {
         height: 480px !important;
+    }
+
+    .ready-to-div {
+        background-color: #289BDE !important;
+        height: 300px !important;
     }
 
 }
