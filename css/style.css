@@ -147,9 +147,6 @@
     width: 528px;
 }
 
-.ready-to-title {}
-
-.ready-to-para {}
 
 .ready-to-button {
     background-color: white !important;
@@ -168,6 +165,13 @@
 /* brand part  */
 .brand-section {
     margin-top: 130px !important;
+}
+
+/* footer part ------------- */
+.footer-icon {
+    text-decoration: none !important;
+    color: white !important;
+    margin-left: 20px !important;
 }
 
 
