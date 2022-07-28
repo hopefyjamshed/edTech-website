@@ -96,6 +96,10 @@
 }
 
 /* explore part  */
+.explore-card {
+    background-color: #F4FAFD !important;
+}
+
 .explore-heading {
     font-size: 45px !important;
     font-weight: 600;
@@ -118,6 +122,12 @@
     font-size: 20px;
     font-weight: 500;
     color: #777777;
+}
+
+.explore-button {
+    height: 56px !important;
+    width: 175px !important;
+    background-color: #289BDE !important;
 }
 
 
@@ -196,6 +206,13 @@
         color: #777777;
     }
 
+    .explore-button {
+        height: 38px !important;
+        width: 123px !important;
+        background-color: #289BDE !important;
+        margin-top: 0px !important;
+    }
+
 
 }
 
@@ -255,4 +272,16 @@
         font-weight: 500;
         color: #777777;
     }
+
+    .explore-button {
+        height: 49px !important;
+        width: 134px !important;
+        background-color: #289BDE !important;
+        margin-top: 0px !important;
+    }
+
+    .explore-image {
+        height: 480px !important;
+    }
+
 }
